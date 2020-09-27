@@ -1,0 +1,1 @@
+insert into loan values(123, sysdate(), 60, 65000.00, 'Personal Loan', 15.25, 101);
